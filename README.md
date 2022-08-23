@@ -58,11 +58,13 @@ Strumenti YouTube - Video
 - Picture-in-Picture Extension 
   - https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg
 
-Ricerca Goggle
+Ricerca Multipla
 - Overload Search - Advanced Google Search 
   - https://chrome.google.com/webstore/detail/overload-search-advanced/knihkdaajdhpjgeiadaefmjmpbnlojbg
 - Recon 
-  - https://chrome.google.com/webstore/detail/recon/nkdochbemgkadhjneplbaibebmocefla
+  - https://chrome.google.com/webstore/detail/recon/nkdochbemgkadhjneplbaibebmoceflaSelection Search
+- Selection Search
+  - https://chrome.google.com/webstore/detail/selection-search/gipnlpdeieaidmmeaichnddnmjmcakoe/related 
 
 Archivio PagineWeb
 - Wayback Machine 
@@ -85,6 +87,9 @@ Ricerca Email
   - https://chrome.google.com/webstore/detail/hunter-email-finder-exten/hgmhmanijnjhaffoampdlllchpolkdnj
 - Mailtrack per Gmail: Email tracking 
   - https://chrome.google.com/webstore/detail/email-tracker-for-gmail-m/ndnaehgpjlnokgebbaldlmgkapkpjkkb
+- RocketReach Chrome Extension - Find any Email  
+  - https://chrome.google.com/webstore/detail/rocketreach-chrome-extens/oiecklaabeielolbliiddlbokpfnmhba
+
 
 Social Network
 - IG Follower Export tool
@@ -113,3 +118,7 @@ OCR
   - https://chrome.google.com/webstore/detail/project-naptha/molncoemjfmpgdkbdlbjmhlcgniigdnf
 - Copyfish 
   - https://chrome.google.com/webstore/detail/copyfish-%F0%9F%90%9F-free-ocr-soft/eenjdnjldapjajjofmldgmkjaienebbj
+  
+  B2B
+- lusha
+  -  https://chrome.google.com/webstore/detail/lusha-easily-find-b2b-con/mcebeofpilippmndlpcghpmghcljajna
