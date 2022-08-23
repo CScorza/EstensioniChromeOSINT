@@ -60,9 +60,9 @@ Strumenti YouTube - Video
 
 Ricerca Goggle
 - Overload Search - Advanced Google Search 
- - https://chrome.google.com/webstore/detail/overload-search-advanced/knihkdaajdhpjgeiadaefmjmpbnlojbg
+  - https://chrome.google.com/webstore/detail/overload-search-advanced/knihkdaajdhpjgeiadaefmjmpbnlojbg
 - Recon 
- - https://chrome.google.com/webstore/detail/recon/nkdochbemgkadhjneplbaibebmocefla
+  - https://chrome.google.com/webstore/detail/recon/nkdochbemgkadhjneplbaibebmocefla
 
 Archivio PagineWeb
 - Wayback Machine 
