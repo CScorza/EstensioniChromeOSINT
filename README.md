@@ -1,8 +1,6 @@
-<font color=#28c1ad size="20"><p aling="center"><span class="panelmsg" translate="no">Estensioni Chrome per l'OSINT</span></p></font>
-            
-![image](https://user-images.githubusercontent.com/98583912/186096469-d330cbd1-c8ea-4969-b593-30f5cb52a478.png)
+![Immagine1](https://user-images.githubusercontent.com/98583912/186385872-4ff61f89-8279-49f9-8552-808dfdfab6b9.jpg)
 
-Elenco di una serie di estensioni utili per l'utilizzo del browser di Goggle nelle attività di Osint:
+**Elenco di una serie di estensioni utili per l'utilizzo del browser di Goggle nelle attività di Osint:**
 
 Gestione
 - Extensity 
