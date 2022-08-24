@@ -4,8 +4,11 @@
 
 Elenco di una serie di estensioni utili per l'utilizzo del browser di Goggle nelle attività di Osint:
 
+Gestione
 - Extensity 
   - https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg
+- Onetab  
+  - https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=it
   
 Categoria Strumenti:
 - Adblock Plus 
