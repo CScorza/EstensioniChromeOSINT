@@ -1,6 +1,7 @@
-![Immagine1](https://user-images.githubusercontent.com/98583912/186385872-4ff61f89-8279-49f9-8552-808dfdfab6b9.jpg)
+![Estensioni GC](https://user-images.githubusercontent.com/98583912/199860576-0c8a99e3-aed6-4644-b150-4f1181ac4413.gif)
 
- ## **Elenco di una serie di estensioni utili per l'utilizzo del browser di Goggle nelle attività di Osint:**
+
+ ## *Elenco estensioni utili per l'utilizzo del browser di Google nelle attività di Osint:*
 
 ## Gestione
   - [Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg)
