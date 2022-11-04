@@ -1,7 +1,7 @@
 ![Estensioni GC](https://user-images.githubusercontent.com/98583912/199860576-0c8a99e3-aed6-4644-b150-4f1181ac4413.gif)
 
 
- ## *Elenco estensioni utili per l'utilizzo del browser di Google nelle attività di Osint:*
+ ## *Elenco estensioni utili per l'utilizzo di Google Chrome nelle attività di Osint:*
 
 ## Gestione
   - [Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg)
