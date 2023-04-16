@@ -1,5 +1,6 @@
 ![Estensioni GC](https://user-images.githubusercontent.com/98583912/199860576-0c8a99e3-aed6-4644-b150-4f1181ac4413.gif)
 
+[![Telegram](https://img.shields.io/badge/Telegram-CScorza%20%22Indagini%20Telematiche%22-informational)](https://t.me/+kP_uYlc6-345Njc8)
 
  ## *Elenco estensioni utili per l'utilizzo di Google Chrome nelle attività di Osint:*
 
