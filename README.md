@@ -1,4 +1,4 @@
-![Estensioni GC](https://user-images.githubusercontent.com/98583912/199860576-0c8a99e3-aed6-4644-b150-4f1181ac4413.gif)
+![EstensioniChrome](https://github.com/CScorza/EstensioniChromeOSINT/assets/98583912/024f5764-3ddb-4622-9801-ec8fb8ad0e8b)
 
 [![Telegram](https://img.shields.io/badge/Telegram-CScorza%20%22Indagini%20Telematiche%22-informational)](https://t.me/+kP_uYlc6-345Njc8)
 [![**Manuali CScorza**](https://img.shields.io/badge/CScorza-Manuali-green)](https://drive.google.com/drive/folders/14jbOwS4GBSJhXP2BJk-TFCSMIzbZLBlj?usp=share_link)
