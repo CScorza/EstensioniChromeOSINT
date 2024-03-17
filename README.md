@@ -71,7 +71,8 @@
 ## Estrazione dati 
 |[**Instant Data Scraper**](https://chrome.google.com/webstore/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah)|[**Tinking - Scrapping Tool**](https://chrome.google.com/webstore/detail/tinking-scrapping-tool/ibidcmokfddpkgdoobeihkfnajmodlkp)|
 | :---: | :---: | 
-  
+|[**Voortimo OSINT - Tool**](https://chromewebstore.google.com/detail/vortimo-osint-tool/mnakbpdnkedaegeiaoakkjafhoidklnf)|[**Hunch.ly**](https://www.hunch.ly/)|
+
 ## Domini IP 
 |[**Gotanda**](https://chrome.google.com/webstore/detail/gotanda/jbmdcdfnnpenkgliplbglfpninigbiml)|[**IP Address and Domain Information**](https://chrome.google.com/webstore/detail/ip-address-and-domain-inf/lhgkegeccnckoiliokondpaaalbhafoa)|
 | :---: | :---: | 
