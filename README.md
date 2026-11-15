@@ -42,7 +42,7 @@
 |[**Screenshot YouTube**](https://chrome.google.com/webstore/detail/screenshot-youtube/gjoijpfmdhbjkkgnmahganhoinjjpohk)|[**Video Speed Controller**](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk)|
 | :---: | :---: | 
 |[**Volume Control - Controllo del volume**](https://chrome.google.com/webstore/detail/volume-controller/kmfhljjdadodpnmgilofilbhnbiggcnm)|[**Video DownloadHelper**](https://chrome.google.com/webstore/detail/video-downloadhelper/lmjnegcaeklhafolokijcfjliaokphfk)|
-|[**Picture-in-Picture Extension**](https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg)||
+|[**Picture-in-Picture Extension**](https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg)|[**YouTube Transcript: AI Summary & Chat**](https://chromewebstore.google.com/detail/bbappnicmjmiliipjcmciaffiglmoekd)|
   
 ## Ricerca Multipla
 |[**Overload Search - Advanced Google Search**](https://chrome.google.com/webstore/detail/overload-search-advanced/knihkdaajdhpjgeiadaefmjmpbnlojbg)|[**Recon**](https://chrome.google.com/webstore/detail/recon/nkdochbemgkadhjneplbaibebmocefla)|
